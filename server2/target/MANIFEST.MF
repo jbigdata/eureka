@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: Administrator
+Implementation-Vendor-Id: us.pdavidson
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_51
+Specification-Version: 1.0-SNAPSHOT
+

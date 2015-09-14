@@ -1,0 +1,10 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: Server1
+
+eureka:
+  instance:
+    preferIpAddress： true
